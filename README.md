@@ -1,5 +1,5 @@
 # Fall2019_Enterprise_Systems_Info_Modeling_Proj
-Final project code for my Graduate level Eneterprise Systems-Info Modeling Course
+Final project code for my graduate level enterprise systems-information modeling course
 
 *Instructions*<br>
 This document constitutes the final project for the course.
