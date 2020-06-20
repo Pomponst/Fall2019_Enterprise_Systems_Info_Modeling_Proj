@@ -1,4 +1,4 @@
-# Fall2019_ESIM_Project
+# Fall2019_Enterprise_Systems_Info_Modeling_Proj
 Final project code for my Graduate level Eneterprise Systems-Info Modeling Course
 
 *Instructions*<br>
